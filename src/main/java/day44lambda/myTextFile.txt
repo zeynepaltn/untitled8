@@ -1,0 +1,4 @@
+We are about to end core Java.
+To be good at core Java, you should complete java Question bank Book.
+To be good at interviews you should teach your friends.
+After java you will start to learn Postgre SQL.
